@@ -65,7 +65,6 @@ class HomeFragment : Fragment() {
                         binding.rv2.adapter = mealsCatAdapter
                     }
 
-
                 }
             }
         }
