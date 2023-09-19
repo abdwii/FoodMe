@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         supportFragmentManager.commit { replace(binding.fragmentView.id, MainFragment()) }
 
+
     }
 
 }
