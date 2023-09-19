@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.commit { replace(binding.fragmentView.id, MainFragment()) }
 
 
-
     }
 }
 
